@@ -1,8 +1,8 @@
 # Cadastrar Clientes
 
-Código base para o desenvolvimento da API de Cartões Virtuais ()
+Código base para o desenvolvimento da API de Cartões Virtuais (https://github.com/melcanarin/cartao-api)
 
-Este projeto em Java permite cadastrar de clientes, gerar de número de cartão aleatório e salvar os dados em um arquivo de texto.
+Este projeto em Java permite cadastrar clientes, gerar número de cartão aleatório e salvar os dados em um arquivo de texto.
 
 ## Funcionalidades
 - Casdastrar múltiplos clientes via console
